@@ -1,3 +1,12 @@
+# =============================================================================
+# File............: Artikel_Widget_Klasse.py
+# Project.........: News Scraper FLZ – GUI
+# Version.........: 1.0
+# Author..........: Florian Zingg
+# Description.....: Kompakte Artikelkarte (Bild + Titel-Button). Klick oeffnet
+#                   den Originalartikel im Browser.
+# Licence.........: MIT
+# =============================================================================
 import math
 import webbrowser
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QLabel, QPushButton

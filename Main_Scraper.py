@@ -1,3 +1,13 @@
+# =============================================================================
+# File............: main.py
+# Project.........: News Scraper FLZ
+# Version.........: 1.0
+# Description.....: Startet die PyQt6-Anwendung, setzt excepthook fuer
+#                   besser sichtbare Fehlermeldungen und zeigt das Hauptfenster.
+# Dependencies....: PyQt6, Haupt_GUI_Scraper_Klasse.NewsScraperGUI
+# Licence.........: MIT
+# =============================================================================
+
 import sys
 from PyQt6.QtWidgets import QApplication
 

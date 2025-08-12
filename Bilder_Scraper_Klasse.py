@@ -1,3 +1,12 @@
+# =============================================================================
+# File............: Bilder_Scraper_Klasse.py
+# Project.........: News Scraper FLZ
+# Version.........: 1.0
+# Author..........: Florian Zingg
+# Description.....: Extrahiert geeignete Bild-Quellen aus Artikel-DOMs und
+#                   laedt Bilder robust als QPixmap.
+# Licence.........: MIT
+# =============================================================================
 import requests
 from io import BytesIO
 from PIL import Image, ImageQt

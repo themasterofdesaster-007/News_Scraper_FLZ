@@ -1,3 +1,12 @@
+# =============================================================================
+# File............: News_Scraper.py
+# Project.........: News Scraper FLZ
+# Version.........: 0.2 (Stub)
+# Author..........: Florian Zingg
+# Description.....: Platzhalter fuer den eigentlichen Web-Scraper. Liefert
+#                   strukturierte Artikel-Dicts, damit GUI/DB laufen.
+# Licence.........: MIT
+# =============================================================================
 import csv
 import urllib.parse
 from selenium import webdriver
